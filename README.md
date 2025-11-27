@@ -12,8 +12,8 @@ From the information given, I had to do the following:
 6. Stakeholders - Power/Interest Grid
 
 ## Functional Requirements
-1. Process Flow Diagram
-2. Domain Model
+- Process Flow Diagram
+- Domain Model
 
 
 
